@@ -1,0 +1,1 @@
+This project simulates an Adaptive Bitrate Streaming (ABR) player, dynamically adjusting video resolution based on real-time bandwidth. It demonstrates core OTT TV concepts like buffering, resolution switching, and bandwidth monitoring, designed as part of an immersive learning journey.
